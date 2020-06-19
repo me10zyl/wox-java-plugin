@@ -1,0 +1,13 @@
+{
+    "ID":"2fm6384e-7gce-43c3-a7c2-b16c5e5c328f",
+    "ActionKeyword":"jj",
+    "Name":"Hello World Java",
+    "Description":"Hello World Java",
+    "Author":"me10zyl",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"https://github.com/me10zyl/wox-java",
+    "IcoPath":"Images\\app.png",
+    "ExecuteFileName":"main.py",
+    "Disabled": false
+}
