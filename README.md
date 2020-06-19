@@ -1,6 +1,6 @@
 # wox-java-plugin
 
-Wox Java Example:
+# Wox Java Example:
 ```java
 package com.yilnz.wox.example;
 
@@ -57,7 +57,7 @@ public class JavaHelloWorld extends Wox {
 }
 ```
 
-main.py
+# main.py
 ```python
 # -*- coding: utf-8 -*-
 import jpype 
@@ -75,3 +75,9 @@ if __name__ == "__main__":
     if jpype.isJVMStarted():
         jpype.shutdownJVM()
 ```
+
+# IMG:
+![1](1.png)
+
+# Wox Example Plugin Download:
+[https://github.com/me10zyl/wox-java-plugin/releases/tag/1.0](https://github.com/me10zyl/wox-java-plugin/releases/tag/1.0)
