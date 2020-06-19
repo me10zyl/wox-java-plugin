@@ -6,5 +6,5 @@ import lombok.Data;
 public class WoxResult {
     private String Title;
     private String SubTitle;
-    private String IconPath;
+    private String IcoPath;
 }

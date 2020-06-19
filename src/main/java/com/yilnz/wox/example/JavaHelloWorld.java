@@ -17,7 +17,7 @@ public class JavaHelloWorld extends Wox {
         WoxQueryResult r = new WoxQueryResult();
         r.setTitle("Java Hello World");
         r.setSubTitle("query subTitle");
-        r.setIconPath("Images/app.png");
+        r.setIcoPath("Images/app.png");
         r.setContextData("ctxData233");
         JsonRPCAction_ jsonRPCAction = new JsonRPCAction_();
         jsonRPCAction.setMethod("take_action");
@@ -35,7 +35,7 @@ public class JavaHelloWorld extends Wox {
         List<WoxContextResult> results = new ArrayList<>();
         WoxContextResult r = new WoxContextResult();
         r.setTitle("Content menu triggered");
-        r.setIconPath("Images/app.png");
+        r.setIcoPath("Images/app.png");
         r.setSubTitle("data : " + params);
         results.add(r);
         log.info("context menu clicked " + params);
