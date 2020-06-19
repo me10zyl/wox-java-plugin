@@ -1,5 +1,7 @@
 # wox-java-plugin
 
+    This is a wox java example plugin, inherit Wox for ur project.Package this with jar and copy to wox plugin dir and write a python script called main.py to invoke your java application.  
+    
 # Wox Java Example:
 ```java
 package com.yilnz.wox.example;
